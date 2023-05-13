@@ -11,8 +11,8 @@ def write_block(block_data, key, block_number):
 
 # Sample data
 blocks_to_write = [
-    {'block_data': '11223344556677881122334455667788', 'key': 'FFFFFFFFFFFF', 'block_number': 16},
-    {'block_data': 'AABBCCDDEEFF0011AABBCCDDEEFF0011', 'key': '000000000000', 'block_number': 18},
+	{'block_data': '11223344556677881122334455667788', 'key': 'FFFFFFFFFFFF', 'block_number': 16},
+	{'block_data': 'AABBCCDDEEFF0011AABBCCDDEEFF0011', 'key': '000000000000', 'block_number': 18},
 	# Add blocks as needed
 ]
 
