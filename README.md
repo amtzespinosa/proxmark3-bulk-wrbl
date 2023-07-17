@@ -1,6 +1,11 @@
 ![Banner](/img/banner.png)
 
-![proxmark3](https://img.shields.io/badge/proxmark3-Easy-lightgrey) ![language](https://img.shields.io/badge/language-Python-blue)
+<div align="center">
+
+![python](https://img.shields.io/badge/Python-3.11-FFDA4A.svg?style=flat&logo=python&logoColor=white&labelColor=blue)
+![python](https://img.shields.io/badge/Proxmark3-Easy-A68F54.svg?style=flat&logo=wikiquote&logoColor=A68F54&labelColor=black)
+
+</div>
 
 Writing blocks with a Proxmark3 Easy can become an exhausting task when you need to write several blocks and the built-in function for restoring fails.
 
